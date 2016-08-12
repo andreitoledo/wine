@@ -1,2 +1,2 @@
 # wine
-Cadastro e Listagem de Vinho com Spring Framework 
+Cadastro e Listagem de Vinho com Java Spring Framework 
